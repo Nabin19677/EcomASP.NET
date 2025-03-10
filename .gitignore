@@ -1,0 +1,52 @@
+# ASP.NET Core
+bin/
+obj/
+out/
+
+# User-specific files
+.vs/
+.idea/
+.vscode/
+*.user
+*.userosscache
+*.suo
+*.swp
+*.sln.docstates
+
+# Build results
+build/
+publish/
+
+# ASP.NET Core related files
+project.lock.json
+project.fragment.lock.json
+*.dbmdl
+
+# ASP.NET Core config files
+appsettings.json
+appsettings.Development.json
+
+# NPM
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# VS Code
+.vscode/
+
+# Windows Installer files
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# JetBrains Rider
+.idea/
+
+# Web server configuration
+web.config
+
+# Database files (if applicable)
+*.mdf
+*.ldf
